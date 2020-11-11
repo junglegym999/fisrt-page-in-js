@@ -8,7 +8,9 @@
   </head>
   <body>
     <h1>Hi this is Jisu's first page with JS</h1>
-    
+    <h2>press the button below</h2>
+    <h3>↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ </h3>
+
     <script src="script.js"></script>
     <input type="button" value="day" onclick="document.querySelector('body').style.backgroundColor= 'yellow',document.querySelector('h1').style.color='blue';">
     <input type="button" value="night" onclick="document.querySelector('body').style.backgroundColor= 'black',document.querySelector('h1').style.color='yellow';">
